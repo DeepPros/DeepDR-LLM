@@ -1,0 +1,2 @@
+Organize the structured training dataset within the `train_set` directory, following the format specified in `train_set/train_set.json`.
+Similarly, construct and store the validation dataset as `valid_set.json` in the corresponding directory.

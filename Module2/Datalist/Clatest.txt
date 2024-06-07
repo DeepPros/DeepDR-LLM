@@ -1,0 +1,2 @@
+./Minimum Dataset/Standard/DR Grading/DR Grade 4.jpg,4
+./Minimum Dataset/Standard/DR Grading/Non-DR and Non-DME.jpg,0

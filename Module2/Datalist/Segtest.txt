@@ -1,0 +1,1 @@
+./Minimum Dataset/Standard/Lesion Segmentation/Example of image with Microaneurysm.jpg,./Minimum Dataset/Standard/Lesion Segmentation/Microaneurysm mask.png

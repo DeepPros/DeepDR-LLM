@@ -1,0 +1,4 @@
+The PEFT package, including our custom `adapter_lora` implementation, is located in the `./peft` directory. See `./peft/tuners/adapter_lora.py` for details.
+To begin training the language model, ensure your data is prepared and then execute `run_train.sh`. The trained `adapter_lora` model will be saved within `DeepDR-LLM/Module1/lora-adapter-weights`.
+`inference.py` is utilized for performing inference with the language model.
+The files `build_dataset.py`, `ds_zero2_no_offload.json`, and `LLM_train.py` are essential for language model training, facilitating the process managed by `run_train.sh`.

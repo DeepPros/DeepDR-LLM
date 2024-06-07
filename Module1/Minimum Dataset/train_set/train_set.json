@@ -1,0 +1,5 @@
+[{"instruction": "你是一个专业的医生，请基于诊疗指南，为以下患者提供综合的管理意见:", 
+"input": "{性别:女; 年龄:47; BMI:22.13kg/m2; ..., }", "output":"根据提供的信息，以下是该患者综合管理建议：1. 药物治疗：...; 2. 饮食控制：...; ..."},{"instruction":"...","input":"...","output":"..."},...]
+English translation:
+[{"instruction": " You are a professional doctor, please provide comprehensive health management advice for the following patients based on the diagnosis and treatment guidelines:", 
+"input": "{Sex: Female; Age: 47; BMI: 22.13 kg/m2; ...}", "output": "Based on the information provided, the comprehensive management recommendations for this patient are as follows: 1. Medication: ...; 2. Diet control: ...; ..."}, {"instruction":"...","input":"...","output":"..."},...]
